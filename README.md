@@ -8,4 +8,4 @@ A simple weather app using OpenWeather API.
 - Clean UI
 
 ## Screenshot
-![Weather app](screenshot.png)
+![Weather app](screenshot.png.jpeg)
